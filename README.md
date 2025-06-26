@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Dataset-MC_OCR-blue" alt="Dataset">
   <img src="https://img.shields.io/badge/Framework-PyTorch-orange" alt="PyTorch">
   <img src="https://img.shields.io/badge/Detector-PaddleOCR-red" alt="PaddleOCR">
 </p>
