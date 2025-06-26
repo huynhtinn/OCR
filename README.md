@@ -10,7 +10,6 @@
   <a href="https://colab.research.google.com/github/your-username/your-repo/blob/main/Task2.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
   </a>
-  <img src="https://img.shields.io/badge/Dataset-MC_OCR-blue" alt="Dataset">
   <img src="https://img.shields.io/badge/Framework-PyTorch-orange" alt="PyTorch">
   <img src="https://img.shields.io/badge/Detector-PaddleOCR-red" alt="PaddleOCR">
 </p>
