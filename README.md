@@ -1,5 +1,5 @@
 
-# 🧾 End-to-End Vietnamese Scene Text Recognition (OCR)
+# 🧾 End-to-End Vietnamese Text Recognition (OCR)
 
 <p align="center">
   <img src="https://i.imgur.com/your-ocr-demo.gif" alt="OCR Project Demo" width="800"/>
